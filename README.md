@@ -12,3 +12,4 @@ Enjoy !!!
 
    * Asteroids
    * Blackjack
+   * Pong
